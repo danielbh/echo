@@ -9,6 +9,7 @@
 [![Forum](https://img.shields.io/badge/community-forum-00afd1.svg?style=flat-square)](https://github.com/labstack/echo/discussions)
 [![Twitter](https://img.shields.io/badge/twitter-@labstack-55acee.svg?style=flat-square)](https://twitter.com/labstack)
 [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/labstack/echo/master/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanielbh%2Fecho.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanielbh%2Fecho?ref=badge_shield)
 
 ## Supported Go versions
 
@@ -121,3 +122,6 @@ func hello(c echo.Context) error {
 ## License
 
 [MIT](https://github.com/labstack/echo/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanielbh%2Fecho.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanielbh%2Fecho?ref=badge_large)
